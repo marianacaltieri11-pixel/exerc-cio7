@@ -1,0 +1,18 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Refrigerante Cola",
+      "preco": 8.50,
+      "categoria": "Bebidas",
+      "estoque": 20
+    },
+    {
+      "id": "2",
+      "nome": "Arroz 5kg",
+      "preco": 25.00,
+      "categoria": "Alimentos",
+      "estoque": 15
+    }
+  ]
+}
